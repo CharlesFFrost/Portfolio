@@ -1,0 +1,41 @@
+
+.crimson {
+      color: crimson;
+   }
+.goldbg {
+  background-color:yellow;
+}
+.black {
+  color:black;
+}
+ { background-color:#610001;}
+
+ .container {
+      display: inline-flex;
+   background-color: #C19552;
+      flex-wrap: wrap;
+      padding: 20px;
+      margin-bottom: 20px;
+      border: 3px solid #ddd;
+      padding: 10px;
+      margin: 0 auto;
+      color: black;
+      width: 100%;
+      font-size:40px;
+      margin:5px;
+      border-color:crimson;
+      text-align: center;
+     justify-content: center;
+      box-sizing: border-box;
+      align-items: center;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px;}
+body { background-color:#D4AF37;
+  font-family: Arial, sans-serif;
+      margin: 3;
+      padding: 0;
+      background-color: ;
+      color: white;}
+margin-left: auto; 
+      margin-right: auto;}
+h1 {color:#333;}
